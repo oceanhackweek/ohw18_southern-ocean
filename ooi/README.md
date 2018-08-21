@@ -2,4 +2,4 @@
 
 Our goals:
 
-Find the data! Identify the streams of data
+Find the data! Identify the data streams
