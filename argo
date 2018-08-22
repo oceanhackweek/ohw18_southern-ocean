@@ -4,7 +4,7 @@ Goals of the Argo data team
 - Retreive data files for all floats within that date/distance range
     - SOCCOM Argo float data files 
         -Use HiRes QC data
-        -Q: What is difference between LIAR, MLR, CANYON?
+        -Q: What is difference between LIAR, MLR, CANYON? LIAR better for PCO2 as per ARG
     - Non SOCCOM floats
         -use delayed mode data
     
