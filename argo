@@ -2,6 +2,9 @@ Goals of the Argo data team
 
 - Get list of floats/profiles within XX distance of OOI mooring during OOI observational period from XX to XX
 - Retreive data files for all floats within that date/distance range
-    - SOCCOM Argo float data files
+    - SOCCOM Argo float data files 
+        -Use HiRes QC data
+        -Q: What is difference between LIAR, MLR, CANYON?
     - Non SOCCOM floats
+        -use delayed mode data
     
