@@ -1,0 +1,7 @@
+# This is a place to keep track of different OOI data types that we have checked.
+# Questions to answer - are the data there? are there known issues? issues we found? have we looked at it?
+
+Apex Mooring Surface Buoy, Pro-Oceanus pCO2 Air-Sea (pco2a_a_dcl_instrument_water_recovered)
+*Deployment 1: Tiny bit of good data late Feb-April 2015
+*Deployment 2: Data probably okay but low from Dec. 15 - Aug. 16, followed by bad data to end of deployment
+*Deployment 3: Damaged on deployment, no data
