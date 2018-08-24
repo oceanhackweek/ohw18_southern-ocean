@@ -1,6 +1,10 @@
 # OOI login credentials
 credentials.json
 
+# Data
+
+study_map/traj_data
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
