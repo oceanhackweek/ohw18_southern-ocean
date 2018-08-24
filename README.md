@@ -1,19 +1,18 @@
 # southern-ocean
-OceanHackWeek Southern Ocean team!
+OceanHackWeek analysis of biogeochemical data from multiple sources in the Southern Ocean
 
 Our motivating goals:
 *Spatial and temporal alignment of data
-*Learning about new datasets (some have used Argo, some have used OOI, as well as other things)
-*Assimilating BGC data into a common framework (for assimilation into models)
+*Learning about new-to-us datasets, and combining those with datasets we have previously worked with
+*Assimilating BGC data into a common framework (i.e. for assimilation into models)
 *Merging biological and physical data
 *Some are Southern Ocean people, others interested taking these lessons eventually to other regions
 
 What we hope to accomplish:
-1) Pulling out OOI data: What data streams are there for pH and pCO2 and when were those sensors working?
+1) OOI data: What data streams are there for physical (T, S, meteorology) and biogeochemical parameters (pH, pCO2, oxygen, nitrate, chlorophyll) and when were those sensors working?
 
-2) When and where are there Argo float profiles in the viscinity of the OOI array?
---> How to get Argo data? Coriolis? SOCCOM website? DOI snapshot of entire Argo dataset with text files that show lat-lon timestamp.
---> one outcome of this project could be multiple pathways to access Argo data, in addition to picking correct method for this project
+2) Argo data: When and where are there Argo float profiles in the viscinity of the OOI array, and what subset have biogeochemical data (SOCCOM floats)?
+--> Multiple ways to access Argo data (either full T/S dataset, or just SOCCOM data)
 
 3) Remote sensing: Also bring in regional satellite data for temperature, chlorophyll, SSH, etc.
 
